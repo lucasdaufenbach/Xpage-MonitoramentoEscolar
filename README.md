@@ -35,4 +35,7 @@ função: permite adicionar e vizualizar reunioes com pais <br>
 Escolas de ensino fundamental e medio publico, estadual e particular.
 
 ### Tecnologias, bibliotecas e frameworks:
-- React
+- React <br>
+
+### Diferenciais:
+automatização de um processo, com monitoramento de presença e disparo de emails, que por muitas vezes é deixado para trás por conta da alta demanda de notificações a serem feitas manualmente. Dessa forma trazendo um contato mais personalizado com os pais, ajudando na comunicação entre pais e professores, na segurança dos alunos e aumentando o indice de aprovação.  
