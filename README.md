@@ -1,8 +1,5 @@
 # Xpage-MonitoramentoEscolar
 
-- Nome/Título do Projeto:
-Xpage
-
 ### Equipe:
 ANGIEL DA SILVA MACHADO LEAL <br>
 LUCAS DAUFENBACH DE OLIVEIRA <br>
